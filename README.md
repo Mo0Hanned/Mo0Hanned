@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Mohand Magdy</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+<h3 align="center">A passionate Ai Engineer from Egypt</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohand-anw&label=Profile%20views&color=0e75b6&style=flat" alt="mohand-anw" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohandmagdy555" target="blank"><img src="https://img.shields.io/twitter/follow/mohandmagdy555?logo=twitter&style=for-the-badge" alt="mohandmagdy555" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Generative Ai**
 
-- 💬 Ask me about **data analysis**
+- 💬 Ask me about **NLP & CV**
 
 - 📫 How to reach me **mohandanw@gmail.com**
 
