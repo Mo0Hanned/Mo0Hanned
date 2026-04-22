@@ -7,8 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=mohand-anw&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-- 🌱 I’m currently learning **Generative Ai**  
-- 💬 Ask me about **NLP & CV**  
+- 🌱 I’m currently learning **MLops**  
+- 💬 Ask me about **Generative AI & Agentic AI**  
 - 📫 How to reach me **mohandanw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
