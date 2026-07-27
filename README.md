@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohand Magdy</h1>
+<h1 align="center">Hi 👋, I'm Mohanad Magdy</h1>
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Mo0Hanned&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Cloud Architecture**
 - 💬 Ask me about **Generative AI & Agentic AI**
 - 📫 How to reach me **mohandanw@gmail.com**
 
@@ -30,11 +30,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo0Hanned&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mo0Hanned&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
+
 <br>
 
 
